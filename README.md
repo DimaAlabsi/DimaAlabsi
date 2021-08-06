@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and software development
 - 🌱 I’m currently learning about software development..
 
-- 📫 How to reach me : on my email
+- 📫 How to reach me : on my email >> dema.yaser8@gmail.com
 
 <!---
 DimaAlabsi/DimaAlabsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
