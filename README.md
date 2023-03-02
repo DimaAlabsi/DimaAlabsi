@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DimaAlabsi
 - 👀 I’m interested in Programming and software development
-- 🌱 I’m currently learning about software development..
+- 🌱 I’m currently working as Front-end developer
 
 - 📫 How to reach me : on my email >> dema.yaser8@gmail.com
 
